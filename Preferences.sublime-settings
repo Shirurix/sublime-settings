@@ -1,0 +1,21 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"default_encoding": "UTF-8",
+	"font_face": "Source Code Pro",
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"spell_check": false,
+	"theme": "Spacegray.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": "auto"
+}
